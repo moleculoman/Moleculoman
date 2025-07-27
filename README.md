@@ -7,12 +7,12 @@ This repository contains my projects built with modern tools and approaches.
 
 ## 📁 Projects
 
-### 1. [UI Test Automation Framework](https://github.com/moleculoman/x5Tech_ui_tests)
-- **Description**: Framework for UI test automation of web applications
-- **Technologies**: Java, Selenium WebDriver, TestNG, Maven, Allure
-- **Coverage**: Functional tests, authentication tests, navigation tests
+### 1. [X5Tech UI Test Automation Framework](https://github.com/moleculoman/x5Tech_ui_tests)
+- **Description**: Framework for UI test automation of web application
+- **Technologies**: Java, Selenium WebDriver, TestNG, Maven, Allure, Selenoide 
+- **Coverage**: Functional tests, navigation tests, searching tests
 - **CI/CD**: GitHub Actions
-- **Results**: [Allure Report](./ui-automation-project/reports)
+- **Results**: [Allure Report](https://jenkins.autotests.cloud/job/moleculoman_hw/allure/)
 
 ### 2. [API Test Automation](./api-automation-project)
 - **Description**: API test automation for RESTful services
