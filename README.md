@@ -7,7 +7,7 @@ This repository contains my projects built with modern tools and approaches.
 
 ## 📁 Projects
 
-### 1. [UI Test Automation Framework](./ui-automation-project)
+### 1. [UI Test Automation Framework](https://github.com/moleculoman/x5Tech_ui_tests)
 - **Description**: Framework for UI test automation of web applications
 - **Technologies**: Java, Selenium WebDriver, TestNG, Maven, Allure
 - **Coverage**: Functional tests, authentication tests, navigation tests
