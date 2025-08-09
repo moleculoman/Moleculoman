@@ -14,18 +14,13 @@ This repository contains my projects built with modern tools and approaches.
 - **CI/CD**: GitHub Actions
 - **Results**: [Allure Report](https://jenkins.autotests.cloud/job/moleculoman_hw/allure/)
 
-### 2. [API Test Automation](./Bookshop_api_project)
+### 2. [API Test Automation](https://github.com/moleculoman//Bookshop_api_project)
 - **Description**: API test automation for RESTful services
 - **Technologies**: Java, REST Assured, JUnit, JSON Schema Validation
 - **Coverage**: Authentication endpoints, CRUD operations, response validation
 - **CI/CD**: Jenkins
-- **Results**: [Test Report](./api-automation-project/results)
+- **Results**: [Allure Report](https://jenkins.autotests.cloud/job/35-Bookshop_api/allure/)
 
-### 3. [Mobile Test Automation](./mobile-automation-project)
-- **Description**: Test automation for mobile applications
-- **Technologies**: Java, Appium, TestNG, Android/iOS
-- **Coverage**: Functional tests, navigation tests, performance tests
-- **Results**: [Test Execution Videos](./mobile-automation-project/videos)
 
 ---
 
