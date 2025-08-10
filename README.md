@@ -14,7 +14,7 @@ This repository contains my projects built with modern tools and approaches.
 - **CI/CD**: GitHub Actions
 - **Results**: [Allure Report](https://jenkins.autotests.cloud/job/35-X5Tech_UI/allure/)
 
-### 2. [Bookstore_api](https://github.com/moleculoman//Bookshop_api_project)
+### 2. [Bookstore_api](https://github.com/moleculoman/Bookshop_api_project)
 - **Description**: API test automation for RESTful services
 - **Technologies**: Java, REST Assured, JUnit5, JSON Schema Validation
 - **Coverage**: Authentication endpoints, CRUD operations, response validation
