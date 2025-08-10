@@ -9,14 +9,14 @@ This repository contains my projects built with modern tools and approaches.
 
 ### 1. [X5Tech UI Test Automation Framework](https://github.com/moleculoman/x5Tech_ui_tests)
 - **Description**: Framework for UI test automation of web application
-- **Technologies**: Java, Selenium WebDriver, TestNG, Maven, Allure, Selenoide 
+- **Technologies**: Java, Selenide, JUnit5, Maven, Allure, Selenoide 
 - **Coverage**: Functional tests, navigation tests, searching tests
 - **CI/CD**: GitHub Actions
-- **Results**: [Allure Report](https://jenkins.autotests.cloud/job/moleculoman_hw/allure/)
+- **Results**: [Allure Report](https://jenkins.autotests.cloud/job/35-X5Tech_UI/allure/)
 
 ### 2. [Bookstore_api](https://github.com/moleculoman//Bookshop_api_project)
 - **Description**: API test automation for RESTful services
-- **Technologies**: Java, REST Assured, JUnit, JSON Schema Validation
+- **Technologies**: Java, REST Assured, JUnit5, JSON Schema Validation
 - **Coverage**: Authentication endpoints, CRUD operations, response validation
 - **CI/CD**: Jenkins
 - **Results**: [Allure Report](https://jenkins.autotests.cloud/job/35-Bookshop_api/allure/)
@@ -29,7 +29,7 @@ This repository contains my projects built with modern tools and approaches.
 - **Programming Languages**: Java
 - **Frameworks**: Selenium WebDriver, Selenide, REST Assured, Appium
 - **Testing Types**: UI, API, Mobile
-- **Tools**: Allure, JUnit, TestNG, Maven, Gradle, Postman
+- **Tools**: Allure, JUnit, Maven, Gradle, Postman
 - **CI/CD**: GitHub Actions, Jenkins, GitLab CI
 - **Version Control**: Git, GitHub
 - **Databases**: SQL, database testing
