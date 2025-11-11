@@ -9,7 +9,7 @@ This repository contains my projects built with modern tools and approaches.
 
 ### 1. [X5Tech UI Test Automation Framework](https://github.com/moleculoman/x5Tech_ui_tests)
 - **Description**: Framework for UI test automation of web application
-- **Technologies**: Java, Selenide, JUnit5, Maven, Allure, Selenoide 
+- **Technologies**: Java, Selenide, JUnit5, Gradle, Allure, Selenoide 
 - **Coverage**: Functional tests, navigation tests, searching tests
 - **CI/CD**: GitHub Actions
 - **Results**: [Allure Report](https://jenkins.autotests.cloud/job/35-X5Tech_UI/allure/)
